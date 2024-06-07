@@ -2,11 +2,11 @@
 ## Overview
 #### The data in this project came from the Bank Marketing Data Set, downloaded from the UCI Machine Learning Data.
 #### Repository. Source: [Moro et al., 2014] S. Moro, P. Cortez and P. Rita. A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems, Elsevier, 62:22-31, June 2014.
-#### **Goal:** Develop effective means to predict when the bank’s product offer will be accepted. 
+ **Goal:** Develop effective means to predict when the bank’s product offer will be accepted. 
 
 ## Software Requirement
-#### **Language:** R.
-#### **Technique:** Excel, R-Studio
+ **Language:** R.
+**Technique:** Excel, R-Studio
 
 ## Methodology
 #### Divide the given data randomly into a training and testing data set of appropriate sizes.
